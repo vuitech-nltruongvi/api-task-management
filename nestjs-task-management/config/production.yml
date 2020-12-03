@@ -1,5 +1,5 @@
 db:
-  host: 'localhost'
+  host: '159.89.31.49'
   username: 'vinlt'
   password: 'TjmWjm824594'
   synchronize: true
